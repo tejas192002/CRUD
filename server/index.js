@@ -12,8 +12,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 const db = mariadb.createPool({
     user: "root",
     host: "localhost",
-    password: "Ishdil",
-    database: "emp",
+    password: "***",
+    database: "***",
 
   });
 
